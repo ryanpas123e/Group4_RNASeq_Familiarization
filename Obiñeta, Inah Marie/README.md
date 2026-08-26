@@ -10,6 +10,7 @@ ARTCLE LINK: https://doi.org/10.1038/s41598-023-48118-0
 # Assigned RNA-seq accession number
 - Control; Replicate 1 - 0h salt stress
 - SRX19681425 (SRR23869388)
+- Link: https://www.ncbi.nlm.nih.gov/sra/SRX19681425
 - Paired-End Sequencing
 
 # Number of reads / sequences
