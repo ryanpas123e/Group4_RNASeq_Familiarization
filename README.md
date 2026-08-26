@@ -1,4 +1,4 @@
-# Group4_RNASeq_Familiarization
+# Group4_RNASeq_Familiarization (Salinity Stress)
 # Members
   - Batigulao, Jehiah Bless
   - Obiñeta, Inah Marie A.
