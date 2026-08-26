@@ -67,7 +67,7 @@ ARTCLE LINK: https://doi.org/10.1038/s41598-023-48118-0
 12.	What additional steps would be needed before the researchers could compare gene expression between control and treatment samples?
 - Trim adapters and low-quality bases → align reads to the Vicia faba genome/transcriptome → count reads per gene → normalize read counts → perform statistical testing for differential expression.
 
-# A short conclusion of three to five sentences
+# Short conclusion 
 - This assignment provided hands-on experience examining real RNA-seq data from a published salinity-stress study in faba bean. Working with the Control_Rep1 sample (SRR23869388) showed how raw FASTQ reads are structured and how FastQC quality metrics reveal both the strengths  and expected quirks of RNA-seq data. Locating the BioProject and run accessions on NCBI SRA also demonstrated how public repositories make published sequencing data reproducible and reusable. This foundation in data quality assessment prepares the group for the next stage of the workflow: trimming, alignment or assembly, and differential expression analysis to identify the genes involved in salt-stress tolerance.
 
 
