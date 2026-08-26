@@ -19,7 +19,7 @@ Afzal, M., Alghamdi, S.S., Khan, M.A., Al-Faifi, S.A., & Habib ur Rahman, M. (20
 - Repository: NCBI SRA
 - NCBI SRA Link: https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA943415
 
-# Assigning RNA-Seq Runs to Group Members
+# Assigned RNA-Seq Runs to Group Members
   - Obiñeta — SRX19681425 (SRR23869388) — Control Replicate 1 — 0h salt stress — Paired End
   - Suan — SRX19681440 (SRR23869373) — Treatment Replicate 1 — 6h salt stress — Paired End
   - Batigulao — SRX19681430 (SRR23869383) — Treatment Replicate 1 — 24h salt stress — Paired End
