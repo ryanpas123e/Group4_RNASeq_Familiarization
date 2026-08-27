@@ -7,8 +7,8 @@ Afzal, M., Alghamdi, S.S., Khan, M.A., Al-Faifi, S.A., & Habib ur Rahman, M. (20
 ARTCLE LINK: https://doi.org/10.1038/s41598-023-48118-0
 
 # RNA-seq run accession
-RI&R2: SRX19681425 (SRR23869388)
-SRA LINK: https://www.ncbi.nlm.nih.gov/sra/SRX19681425
+- RI&R2: SRX19681425 (SRR23869388)
+- SRA LINK: https://www.ncbi.nlm.nih.gov/sra/SRX19681425
 
 # Sequencing Data Summary
 | Metric | R1 | R2 |
