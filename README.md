@@ -20,11 +20,13 @@ Afzal, M., Alghamdi, S.S., Khan, M.A., Al-Faifi, S.A., & Habib ur Rahman, M. (20
 - NCBI SRA Link: https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA943415
 
 # Assigned RNA-Seq Runs to Group Members
-  - Obiñeta — SRX19681425 (SRR23869388) — Control Replicate 1 — 0h salt stress — Paired End
-  - Suan — SRX19681440 (SRR23869373) — Treatment Replicate 1 — 6h salt stress — Paired End
-  - Batigulao — SRX19681430 (SRR23869383) — Treatment Replicate 1 — 24h salt stress — Paired End
-  - Pasculado — SRX19681434 (SRR23869379 ) — Treatment Replicate 1 — 48h salt stress — Paired End
-  - Oficiar — — Treatment Replicate 1 — 72h salt stress — Paired End
+ | Student | SRX Accession | SRR Accession | Condition | Time Point | Layout |
+|---|---|---|---|---|---|
+| Obiñeta | SRX19681425 | SRR23869388 | Control, Rep 1 | 0h | Paired-end |
+| Suan | SRX19681440 | SRR23869373 | Treatment, Rep 1 | 6h salt stress | Paired-end |
+| Batigulao | SRX19681430 | SRR23869383 | Treatment, Rep 1 | 24h salt stress | Paired-end |
+| Pasculado | SRX19681434 | SRR23869379 | Treatment, Rep 1 | 48h salt stress | Paired-end |
+| Oficiar | SRX19681435 | SRR23869378 | Treatment, Rep 1 | 72h salt stress | Paired-end |
 
 # Short Summary of the Experimental Design 
 The study examined the transcriptomic response of faba bean (*Vicia faba L.*), salt-tolerant genotype "Hassawi-2," to salinity stress at the early vegetative (three-leaf) stage. Seedlings were treated with 200 mM NaCl, and leaf tissue was sampled at five time points after treatment (6h, 12h, 24h, 48h, and 72h), alongside untreated control seedlings. Each condition included 3 biological replicates. RNA was extracted from leaf tissue and sequenced using Illumina paired-end RNA-seq. Since no faba bean reference genome was used by the authors, transcripts were assembled de novo using Trinity, annotated against public databases (NR, Swiss-Prot, KEGG, GO, Pfam), and differential expression between control and each stress time point was assessed using edgeR, with results validated by qRT-PCR.
