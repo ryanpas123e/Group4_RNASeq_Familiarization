@@ -34,6 +34,19 @@ ARTCLE LINK: https://doi.org/10.1038/s41598-023-48118-0
 | Sequence duplication levels | Fail — biological expression variation (highly expressed genes) | Fail — biological expression variation (highly expressed genes) |
 | Per sequence GC content | Pass — 45% | Warn — slight deviation from expected distribution |
 
+
+| Metric | R1 | R2 |
+|---|---|---|
+| Number of reads / sequences | 28,209,473 | 28,209,473 |
+| Read length | 101 bp | 101 bp |
+| Per-base sequence quality | Pass — Q ~36.5, all green | Pass — Q ~36.6, all green |
+| Adapter content | Pass — 0%, none detected | Pass — 0%, none detected |
+| Overrepresented sequences | Warn — some overrepresented sequences flagged | Warn — some overrepresented sequences flagged |
+| Per base sequence content | Fail — normal RNA-seq priming bias | Fail — normal RNA-seq priming bias |
+| Sequence duplication levels | Fail — biological expression variation (highly expressed genes) | Fail — biological expression variation (highly expressed genes) |
+| Per sequence GC content | Pass — 45% | Warn — slight deviation from expected distribution |
+
+
 # Short explanation of what the sample represents biologically
 - This sample represents leaf tissue from *Vicia faba* (faba bean) at the vegetative three-leaf stage, harvested at 0 hours with no salt exposure. It serves as the unstressed biological control (Replicate 1), providing a baseline gene expression profile for comparison against salt-stressed samples.
 
