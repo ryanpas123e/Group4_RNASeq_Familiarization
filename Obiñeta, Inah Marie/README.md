@@ -7,34 +7,6 @@ Afzal, M., Alghamdi, S.S., Khan, M.A., Al-Faifi, S.A., & Habib ur Rahman, M. (20
 ARTCLE LINK: https://doi.org/10.1038/s41598-023-48118-0
 
 # Sequencing Data Summary
-# Assigned RNA-seq accession number
-- Control; Replicate 1 - 0h salt stress
-- SRX19681425 (SRR23869388)
-- Link: https://www.ncbi.nlm.nih.gov/sra/SRX19681425
-- Paired-End Sequencing
-
-# Number of reads / sequences
-- Control_Rep1_R1: 28,209,473
-- Control_Rep1_R2: 28,209,473
-
-# Read length
-- Control_Rep1_R1: 101 bp
-- Control_Rep1_R2: 101 bp
-
-# GC Content
-- Control_Rep1_R1: 45%
-- Control_Rep1_R2: 45%
-
-| Metric | R1 | R2 |
-|---|---|---|
-| Per-base sequence quality | Pass — Q ~36.5, all green | Pass — Q ~36.6, all green |
-| Adapter content | Pass — 0%, none detected | Pass — 0%, none detected |
-| Overrepresented sequences | Warn — some overrepresented sequences flagged | Warn — some overrepresented sequences flagged |
-| Per base sequence content | Fail — normal RNA-seq priming bias | Fail — normal RNA-seq priming bias |
-| Sequence duplication levels | Fail — biological expression variation (highly expressed genes) | Fail — biological expression variation (highly expressed genes) |
-| Per sequence GC content | Pass — 45% | Warn — slight deviation from expected distribution |
-
-
 | Metric | R1 | R2 |
 |---|---|---|
 | Number of reads / sequences | 28,209,473 | 28,209,473 |
