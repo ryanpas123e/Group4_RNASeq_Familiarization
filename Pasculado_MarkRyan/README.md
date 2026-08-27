@@ -38,6 +38,7 @@ Afzal, M., Alghamdi, S. S., Khan, M. A., Al-Faifi, S. A., & Rahman, M. H. ur. (2
 **Read length:** 101 bp
 
 **GC content:** Approximately 43–44%
+**SRA Link:** https://www.ncbi.nlm.nih.gov/sra/SRX19681434[accn]
 
 ---
 
