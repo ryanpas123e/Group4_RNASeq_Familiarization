@@ -18,7 +18,7 @@
 
 **Read Length:** 101 bp
 
-**GC content:** R1: 43% / R2: 44%
+**GC content:** R1: 42% / R2: 43%
 
 ## FastQC Quality Summary
 
